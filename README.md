@@ -11,7 +11,7 @@ This repository contains codes for K-means Clustering Algorithm in machine learn
 ## Data Set Information
 
 The csv file corresponding used herein was downloaded from [Kaggle repository](https://www.kaggle.com/akram24/mall-customers).
-The dataset contains data about customers from a Mall. The information gather is: `Customer ID`, `Age`, `Annual Income (k$)`, `Spending Score (1-100)`.
+The dataset contains data about customers from a Mall. The information gather is: `Customer ID`, `Age`, `Annual Income (k$)`, `Spending Score (1-100)`.  
 _Every person is different and so is their behavior as customers_. 
 
 ## Analysis
